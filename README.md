@@ -120,4 +120,4 @@ print(tokenizer.decode(output_ids[input_ids.shape[1]:], skip_special_tokens=Fals
 ```
 
 ## License
-Apache 2.0? Maybe... idk
+Model subject to Gemma(base model license) terms of use along with the underlying datasets(LAOIN and SVIT) subject to their respective licenses. All codes are Apache 2.0
